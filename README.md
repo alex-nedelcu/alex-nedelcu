@@ -10,7 +10,7 @@ let alexandru = {
        languages: ["HTML5", "CSS3", "JavaScript", "Python", "C", "C++"],
 	   tools: ["Qt5", "Bootstrap"],
           status: {
-                   learning: "React",
+                   learning: "ReactJS",
                   improving: "JavaScript",
                   },
              }
