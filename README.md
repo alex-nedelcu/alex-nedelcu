@@ -7,7 +7,7 @@
 let alexandru = {
              age: 19,
         position: "2nd year Computer Science student",
-       languages: ["HTML5", "CSS3", "JavaScript", "Python", "C", "C++"],
+       languages: ["HTML5", "CSS3", "JavaScript", "Python", "C", "C++", "Java"],
 	   tools: ["Qt5", "Bootstrap"],
           status: {
                    learning: "ReactJS",
