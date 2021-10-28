@@ -1,6 +1,6 @@
 <h1 align="center">Hi everybody, I'm Alexandru Nedelcu</h1><br>
 <p align="left">
-<i>Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babeș-Bolyai" University of Cluj-Napoca</a></i>.<a href="https://www.linkedin.com/in/alexandru-nicolae-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mircea-negrau" height="30" width="40" /></a>  
+<i>Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babeș-Bolyai" University of Cluj-Napoca</a></i>.<a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="30" width="40" /></a>  
 </p>
  
 ```javascript
