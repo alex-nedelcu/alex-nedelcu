@@ -4,12 +4,12 @@
 </p>
  
 ```javascript
-let alexandru = {
-             age: 20,
-        position: ["2nd year Computer Science student", "Software Engineer intern"],
-       languages: ["C", "C++", "Python", "HTML5", "CSS3", "JavaScript", "Java"],
-	   tools: ["Qt5", "Bootstrap"]
-             }
+let alex = {
+      age: 20,
+ position: ["2nd year Computer Science student", "Software Engineer intern"],
+languages: ["C", "C++", "Python", "HTML5", "CSS3", "JavaScript", "Java"],
+   tools: ["Qt5", "Bootstrap"]
+	}
 ```
 <br>
 <h2 align="left">Languages and Tools</h2>
