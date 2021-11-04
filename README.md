@@ -1,18 +1,14 @@
-<h1 align="center">Hi everybody, I'm Alexandru Nedelcu</h1><br>
+<h1 align="center">Hi everybody, I'm Alex!</h1><br>
 <p align="left">
 <i>Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babeș-Bolyai" University of Cluj-Napoca</a></i>.<a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="30" width="40" /></a>  
 </p>
  
 ```javascript
 let alexandru = {
-             age: 19,
-        position: "2nd year Computer Science student",
+             age: 20,
+        position: ["2nd year Computer Science student", "Software Engineer Intern"],
        languages: ["C", "C++", "Python", "HTML5", "CSS3", "JavaScript", "Java"],
-	   tools: ["Qt5", "Bootstrap"],
-          status: {
-                   learning: "ReactJS",
-                  improving: "JavaScript",
-                  },
+	   tools: ["Qt5", "Bootstrap"]
              }
 ```
 <br>
