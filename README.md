@@ -6,7 +6,7 @@
 ```javascript
 let alexandru = {
              age: 20,
-        position: ["2nd year Computer Science student", "Software Engineer Intern"],
+        position: ["2nd year Computer Science student", "Software Engineer intern"],
        languages: ["C", "C++", "Python", "HTML5", "CSS3", "JavaScript", "Java"],
 	   tools: ["Qt5", "Bootstrap"]
              }
