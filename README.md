@@ -7,10 +7,10 @@
 let alex = {
 	   age: 20,
      positions: ["2nd year Computer Science Student", "Junior Software Developer"],
-     languages: ["C", "C++", "Python", "Java", "HTML5", "CSS3", "JavaScript", "Ruby", "SQL"],
-    frameworks: ["Tailwind CSS", "Ruby on Rails", "Next.js"],
+     languages: ["C", "C++", "Python", "Java", "HTML5", "CSS3", "JavaScript", "Ruby", "SQL", "PostgreSQL"],
+    frameworks: ["Ruby on Rails", "Next.js", "Tailwind CSS"],
      libraries: ["React", "Redux"],
-	 tools: ["Qt5"]
+	 tools: ["Git", "Qt5"]
         }
 ```
 <br>
