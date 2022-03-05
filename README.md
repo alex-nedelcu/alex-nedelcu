@@ -6,9 +6,9 @@
 ```javascript
 let alex = {
 	   age: 20,
-     positions: ["2nd year Computer Science Student", "Junior Software Developer"],
-     languages: ["C/C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL", "PostgreSQL"],
-    frameworks: ["Ruby on Rails", "React", "Redux", "Next.js", "Tailwind CSS"],
+	positions: ["2nd year Computer Science Student", "Junior Software Developer"],
+	languages: ["C/C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL", "PostgreSQL"],
+	frameworks: ["Ruby on Rails", "React", "Redux", "Next.js", "Tailwind CSS"],
 	 tools: ["Git", "Qt5"]
         }
 ```
