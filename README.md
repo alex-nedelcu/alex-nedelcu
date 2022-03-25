@@ -1,13 +1,14 @@
 <h1 align="center">Hi everyone, I'm Alex!</h1><br>
 <p align="left">
-<i>Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babeș-Bolyai" University of Cluj-Napoca</a></i><a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="30" width="40" /></a>  
+Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babes-Bolyai" University of Cluj-Napoca</a>
+<a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="30" width="40" /></a>  
 </p>
  
 ```javascript
 let alex = {
 	       age: 20,
 	 positions: ["2nd year Computer Science Student", "Junior Software Developer"],
-	 languages: ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL", "PostgreSQL"],
+	 languages: ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL Server", "PostgreSQL"],
 	frameworks: ["Ruby on Rails", "React", "Redux", "Next.js", "Tailwind CSS"],
 	     tools: ["Git", "Qt5"]
 	}
