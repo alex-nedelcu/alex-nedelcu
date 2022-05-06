@@ -8,7 +8,7 @@ Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matemat
 let alex = {
 	       age: 20,
 	 positions: ["2nd year Computer Science Student", "Junior Software Developer"],
-	 languages: ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL", "PostgreSQL"],
+	 languages: ["C/C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "MS SQL Server", "PostgreSQL"],
 	frameworks: ["Ruby on Rails", "React", "Redux", "Spring Boot", "Next.js", "Tailwind CSS"],
 	     tools: ["Git", "Postman", "pgAdmin"]
 	}
