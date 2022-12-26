@@ -6,11 +6,11 @@ Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matemat
  
 ```javascript
 let alex = {
-	       age: 20,
-	 positions: ["2nd year Computer Science Student", "Junior Software Developer"],
-	 languages: ["C/C++", "Python", "Java", "HTML", "CSS", "JavaScript", "Ruby", "SQL"],
-	frameworks: ["Ruby on Rails", "React", "Redux", "Spring Boot", "Next.js", "Tailwind CSS"],
-	     tools: ["Git", "Postman", "pgAdmin"]
+	       age: 21,
+	 positions: ["3rd year Computer Science Student", "Junior Software Engineer"],
+	 languages: ["Java", "C/C++", "Python", "TypeScript", "Dart", "Ruby", "SQL"],
+	frameworks: ["Spring Boot", "React", "Ruby on Rails", "Flutter"],
+	     tools: ["Git", "Docker", "iOS Simulator", "Postman"]
 	}
 ```
 <br>
