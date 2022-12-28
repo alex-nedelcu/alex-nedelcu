@@ -10,7 +10,7 @@ let alex = {
 	 positions: ["3rd year Computer Science Student", "Junior Software Engineer"],
 	 languages: ["Java", "C/C++", "Python", "TypeScript", "Dart", "Ruby", "SQL"],
 	frameworks: ["Spring Boot", "React", "Ruby on Rails", "Flutter"],
-	     tools: ["Git", "Docker", "iOS Simulator", "Postman"]
+	     tools: ["Git", "Docker", "iOS Simulator", "Postman", "OpenAPI"]
 	}
 ```
 <br>
