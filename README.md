@@ -7,10 +7,10 @@ Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matemat
 ```javascript
 let alex = {
 	       age: 21,
-	 positions: ["3rd year Computer Science Student", "Junior Software Engineer"],
-	 languages: ["Java", "C/C++", "Python", "TypeScript", "Dart", "Ruby", "SQL"],
+	 positions: ["last year Computer Science student", "Software Engineer"],
+	 languages: ["Java", "C/C++", "Python", "JavaScript", "TypeScript", "Dart", "Ruby", "SQL"],
 	frameworks: ["Spring Boot", "React", "Ruby on Rails", "Flutter"],
-	     tools: ["Git", "Docker", "iOS Simulator", "Postman", "OpenAPI"]
+	    devops: ["Docker", "Kubernetes", "Jenkins CI/CD", "Helm Charts"]
 	}
 ```
 <br>
