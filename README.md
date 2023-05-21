@@ -7,7 +7,7 @@ Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matemat
 ```javascript
 let alex = {
 	       age: 21,
-	 positions: ["last year Computer Science student", "Software Engineer"],
+	 positions: ["Computer Science BSc student", "Software Engineer"],
 	 languages: ["Java", "C/C++", "Python", "JavaScript", "TypeScript", "Dart", "Ruby", "SQL"],
 	frameworks: ["Spring Boot", "React", "Ruby on Rails", "Flutter"],
 	    devops: ["Docker", "Kubernetes", "Jenkins CI/CD", "Helm Charts"]
