@@ -1,16 +1,13 @@
-<h1 align="center">Hi everyone, I'm Alex!</h1><br>
-<p align="left">
-Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">"Babes-Bolyai" University of Cluj-Napoca</a>
-<a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="25" width="30" /></a> 
-</p>
+<h1 align="center">Hi everyone, I'm Alex! <a href="https://www.linkedin.com/in/alexandru-nedelcu-b23084220/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandru Nedelcu" height="25" width="30" /></a></h1><br>
  
 ```javascript
 let alex = {
 	       age: 21,
-	 positions: ["Computer Science BSc student", "Software Engineer"],
+        experience: subtract(Date.now(), Date.parse("November 5, 2021")),
+	 positions: ["Computer Science BSc", "Software Engineer"],
 	 languages: ["Java", "C/C++", "Python", "JavaScript", "TypeScript", "Dart", "Ruby", "SQL"],
 	frameworks: ["Spring Boot", "React", "Ruby on Rails", "Flutter"],
-	    devops: ["Docker", "Kubernetes", "Jenkins CI/CD", "Helm Charts"]
+	    devOps: ["Docker", "Kubernetes", "Jenkins CI/CD", "Helm Charts"]
 	}
 ```
 <br>
